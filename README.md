@@ -1,5 +1,9 @@
 # Microduck RL
 
+This is my personal robotics learning fork of Pollen Robotics' Microduck RL project.
+Start with my [background, goals, and laptop setup](docs/learning-context.md)
+and the [six-month study roadmap](docs/learning-roadmap.md).
+
 <img width="2215" height="884" alt="image" src="https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7" />
 
 
